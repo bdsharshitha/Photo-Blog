@@ -12,6 +12,8 @@ Clean and modern layout to highlight the photographs.
 1.Clone the repository:<br>
 Copy code:git clone https://github.com/bdsharshitha/Photo-Blog.git <br>
 2.Open index.html in your web browser to view the photo blog.
+<h2>Screenshot</h2>
+<img src="screenshot.png">
 <h2>Contributing</h2>
 Contributions are welcome! Please feel free to submit pull requests.
 
